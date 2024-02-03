@@ -15,4 +15,4 @@ The Windy Gridworld is a modification of the standard gridworld environment, des
 
 -**Adaptation Requirement**: Agents must adapt their strategies to account for the wind's influence, making navigation more challenging than in a standard gridworld environment.
 
-![alt text]("C:\Users\shrut\OneDrive\Desktop\Screenshot 2024-02-03 121357.png.png)
+![alt text](["C:\Users\shrut\OneDrive\Desktop\Screenshot 2024-02-03 121357.png.png](https://github.com/PShru2000/Implementation-of-Reinforcement-Policies-in-Gridworld/blob/main/Screenshot%202024-02-03%20121357.png)https://github.com/PShru2000/Implementation-of-Reinforcement-Policies-in-Gridworld/blob/main/Screenshot%202024-02-03%20121357.png)
