@@ -1,4 +1,4 @@
-# Evaluating the Effectiveness of Temporal Difference Learning Methods in a Windy Gridworld
+5[# Evaluating the Effectiveness of Temporal Difference Learning Methods in a Windy Gridworld
 
 ## Environment Setup
 
@@ -26,16 +26,16 @@ This project aims to explore and evaluate the effectiveness of various Temporal 
 
 - **Windy Gridworld Domain:** Implementing the Windy Gridworld environment, incorporating specific dynamics such as variable wind strength across the grid that influences the agent's movement.
 
-- **TD Learning Methods:** Implementing and integrate a suite of TD learning methods to navigate and solve the Windy Gridworld problem, including:
+- **TD Learning Methods:** Implementing and tesing the effectiveness of TD learning methods to navigate and solve the Windy Gridworld problem, including:
   
-On-policy Monte-Carlo control for ε-soft policies
+  - On-policy Monte-Carlo control for ε-soft policies
 
-SARSA (on-policy TD control)
-
-Expected SARSA
-
-n-step SARSA with n set to 4
-
-Q-learning (off-policy TD control)
-
-Optional: Dynamic programming to provide an upper bound on performance
+  - SARSA (on-policy TD control)
+    
+  - Expected SARSA
+    
+  - n-step SARSA with n set to 4
+  
+  - Q-learning (off-policy TD control)
+    
+  - Optional: Dynamic programming to provide an upper bound on performance
