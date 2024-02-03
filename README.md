@@ -47,7 +47,7 @@ This project aims to explore and evaluate the effectiveness of various Temporal 
 
 ## Output Analysis:
 
-Please refer to the **[outputs]([URL](https://github.com/PShru2000/Implementation-of-Reinforcement-Policies-in-Gridworld/tree/main/outputs%20-RL))** folder for results
+Please refer to the **[outputs]((https://github.com/PShru2000/Implementation-of-Reinforcement-Policies-in-Gridworld/tree/main/outputs%20-RL))** folder for results
 
 The provided plots represent the performance of different Temporal Difference (TD) learning methods applied to the Windy Gridworld environment, the Windy Gridworld with King's moves (allowing eight possible actions), and the stochastic Windy Gridworld with King's moves
 
