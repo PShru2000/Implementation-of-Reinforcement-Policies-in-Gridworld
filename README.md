@@ -47,11 +47,11 @@ This project aims to explore and evaluate the effectiveness of various Temporal 
 
 ## Output Analysis:
 
-Please refer to the **outputs** folder for results
+Please refer to the **[outputs](URL)** folder for results
 
 The provided plots represent the performance of different Temporal Difference (TD) learning methods applied to the Windy Gridworld environment, the Windy Gridworld with King's moves (allowing eight possible actions), and the stochastic Windy Gridworld with King's moves
 
-### Windy Gridworld Environment (Standard)
+### Windy Gridworld Environment 
 - **SARSA, Q-learning, Expected SARSA, n-step SARSA,** and **ε-soft Monte Carlo** methods all show improvement over time, as indicated by the increasing number of episodes completed within a given number of timesteps. This suggests that all methods are learning effective policies for navigating the gridworld.
 - The confidence bands indicate that while there is variability in performance across trials, the general trend for all methods is positive.
 - There's a noticeable convergence of methods as the number of timesteps increases, which may imply that all methods are approaching an optimal policy.
