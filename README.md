@@ -16,3 +16,26 @@ The Windy Gridworld is a modification of the standard gridworld environment, des
 -**Adaptation Requirement**: Agents must adapt their strategies to account for the wind's influence, making navigation more challenging than in a standard gridworld environment.
 
 ![Screenshot](Screenshot%202024-02-03%20121357.png)
+
+
+## Objectives:
+
+This project aims to explore and evaluate the effectiveness of various Temporal Difference (TD) learning methods within the context of a Windy Gridworld.
+
+**Implementation Objectives:**
+
+- **Windy Gridworld Domain:** Implementing the Windy Gridworld environment, incorporating specific dynamics such as variable wind strength across the grid that influences the agent's movement.
+
+- **TD Learning Methods:** Implementing and integrate a suite of TD learning methods to navigate and solve the Windy Gridworld problem, including:
+  
+On-policy Monte-Carlo control for ε-soft policies
+
+SARSA (on-policy TD control)
+
+Expected SARSA
+
+n-step SARSA with n set to 4
+
+Q-learning (off-policy TD control)
+
+Optional: Dynamic programming to provide an upper bound on performance
