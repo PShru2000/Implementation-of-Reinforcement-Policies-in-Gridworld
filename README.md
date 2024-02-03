@@ -1,4 +1,4 @@
-5[# Evaluating the Effectiveness of Temporal Difference Learning Methods in a Windy Gridworld
+# Evaluating the Effectiveness of Temporal Difference Learning Methods in a Windy Gridworld
 
 ## Environment Setup
 
@@ -22,8 +22,6 @@ The Windy Gridworld is a modification of the standard gridworld environment, des
 
 This project aims to explore and evaluate the effectiveness of various Temporal Difference (TD) learning methods within the context of a Windy Gridworld.
 
-**Implementation Objectives:**
-
 - **Windy Gridworld Domain:** Implementing the Windy Gridworld environment, incorporating specific dynamics such as variable wind strength across the grid that influences the agent's movement.
 
 - **TD Learning Methods:** Implementing and tesing the effectiveness of TD learning methods to navigate and solve the Windy Gridworld problem, including:
@@ -39,3 +37,12 @@ This project aims to explore and evaluate the effectiveness of various Temporal 
   - Q-learning (off-policy TD control)
     
   - Optional: Dynamic programming to provide an upper bound on performance
+ 
+
+#### Enhanced Action Space
+- **Objective:** Implement and assess the impact of King's Moves (eight directions plus an optional no-movement action) on navigation efficiency in the Windy Gridworld. Determine the effectiveness of expanded action choices in improving path optimization and strategy under windy conditions.
+
+#### Stochastic Wind Effects
+- **Objective:** Introduce stochastic wind effects to the Windy Gridworld, creating variability in wind influence on movement.Evaluate how TD learning methods adapt to and perform under the unpredictability of wind effects, enhancing understanding of algorithm robustness.
+ 
+
